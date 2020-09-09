@@ -63,7 +63,7 @@ You can modify how you receive notifications at My Workspace > Preferences.
 
 
 
-From louis@media.berkeley.edu Fri Jan  4 18:10:48 2008
+From locwen@iupui.eduuis@media.berkeley.edu Fri Jan  4 18:10:48 2008
 Return-Path: <postmaster@collab.sakaiproject.org>
 Received: from murder (mail.umich.edu [141.211.14.97])
 	 by frankenstein.mail.umich.edu (Cyrus v2.3.8) with LMTPA;
